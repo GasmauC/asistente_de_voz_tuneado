@@ -7,8 +7,8 @@
 ![GUI](https://img.shields.io/badge/Interfaz-CustomTkinter-blueviolet)
 
 ## 📸 Captura de Pantalla
-*(Aquí puedes subir una captura de tu app funcionando y pegar el link, o borrar esta línea)*
-![Urano GUI Screenshot](ruta_a_tu_imagen.png)
+
+![Urano GUI Screenshot](urano.png)
 
 ## ✨ Novedades de la Versión 2.0
 
